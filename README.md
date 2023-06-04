@@ -5,8 +5,11 @@ An URL shortener is a tool that reduces the length of your URL (Uniform Resource
 # Commands 
 
 git clone https://github.com/arn4vz/Link-Shortner
+
 cd Link-Shortner
+
 pip install pyshorteners
+
 python link-shortner.py
 
 # Developer Channels 
